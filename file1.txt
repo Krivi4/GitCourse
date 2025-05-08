@@ -4,4 +4,4 @@ Hello World
 
 line from user2
 21312312
-line fron user 1 - leesson about rebase
+line from user 2 - lesson about rebase
